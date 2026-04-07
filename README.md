@@ -82,3 +82,19 @@ fmcg-sales-analysis/
 5. Profit Margin by Sub-Category
 6. Impact of Discount Rate on Profit
 7. Customer Segment Analysis
+
+## Visualisations
+
+![Monthly Sales Trend](monthly_sales_trend.png)
+
+![Top Sub-Categories](top_subcategories.png)
+
+![Region Performance](region_performance.png)
+
+![Sales Forecast](sales_forecast.png)
+
+![Profit Margin](profit_margin_analysis.png)
+
+![Discount vs Profit](discount_vs_profit.png)
+
+![Customer Segments](customer_segments.png)
