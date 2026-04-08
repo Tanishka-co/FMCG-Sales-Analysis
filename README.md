@@ -1,5 +1,6 @@
 # FMCG-Sales-Analysis
 Sales trend analysis and demand forecasting on FMCG superset data using Python
+
 # FMCG Sales Analysis & Demand Forecasting
 
 ## Overview
@@ -74,7 +75,7 @@ performance, indicating healthy business momentum.
 ## Project Structure
 fmcg-sales-analysis/
 
---analysis.ipynb          # Main analysis notebook
+--analysis.ipynb                 # Main analysis notebook
 --monthly_sales_trend.png
 --top_subcategories.png
 --region_performance.png
